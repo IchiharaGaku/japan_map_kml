@@ -11,14 +11,10 @@
 <Folder><name>tokyo</name>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0</outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -30,14 +26,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -49,14 +41,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -68,14 +56,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -87,14 +71,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -106,14 +86,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -125,14 +101,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -144,14 +116,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -163,14 +131,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -182,14 +146,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -201,14 +161,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -220,14 +176,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -239,14 +191,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -258,14 +206,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -277,14 +221,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -296,14 +236,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -315,14 +251,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -334,14 +266,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -353,14 +281,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -372,14 +296,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -391,14 +311,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -410,14 +326,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -429,14 +341,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -448,14 +356,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -467,14 +371,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -486,14 +386,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -505,14 +401,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -524,14 +416,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -543,14 +431,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -562,14 +446,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -581,14 +461,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -600,14 +476,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -619,14 +491,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -638,14 +506,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -657,14 +521,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -676,14 +536,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -695,14 +551,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -714,14 +566,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -733,14 +581,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -752,14 +596,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -771,14 +611,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -790,14 +626,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -809,14 +641,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -828,14 +656,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -847,14 +671,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -866,14 +686,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -885,14 +701,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -904,14 +716,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -923,14 +731,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -942,14 +746,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -961,14 +761,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -980,14 +776,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -999,14 +791,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -1018,14 +806,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -1037,14 +821,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -1056,14 +836,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -1075,14 +851,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -1094,14 +866,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -1113,14 +881,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -1132,14 +896,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -1151,14 +911,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -1170,14 +926,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -1189,14 +941,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -1208,14 +956,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -1227,14 +971,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -1246,14 +986,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -1265,14 +1001,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -1284,14 +1016,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -1303,14 +1031,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -1322,14 +1046,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -1341,14 +1061,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -1360,14 +1076,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -1380,14 +1092,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -1400,14 +1108,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -1420,14 +1124,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -1440,14 +1140,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -1458,14 +1154,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -1476,14 +1168,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
@@ -1494,14 +1182,10 @@
   </Placemark>
   <Placemark>
 	<Style>
-	  <LineStyle>
-		  <color>ff0000ff</color>
-			<width>1</width>
-		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
-			<outline>1</outline>
+			<outline>0<outline>
 		</PolyStyle>
 	</Style>
 	<ExtendedData><SchemaData schemaUrl="#tokyo">
