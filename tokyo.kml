@@ -11,6 +11,10 @@
 <Folder><name>tokyo</name>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -26,6 +30,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -41,6 +49,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -56,6 +68,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -71,6 +87,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -86,6 +106,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -101,6 +125,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -116,6 +144,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -131,6 +163,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -146,6 +182,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -161,6 +201,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -176,6 +220,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -191,6 +239,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -206,6 +258,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -221,6 +277,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -236,6 +296,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -251,6 +315,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -266,6 +334,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -281,6 +353,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -296,6 +372,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -311,6 +391,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -326,6 +410,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -341,6 +429,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -356,6 +448,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -371,6 +467,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -386,6 +486,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -401,6 +505,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -416,6 +524,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -431,6 +543,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -446,6 +562,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -461,6 +581,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -476,6 +600,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -491,6 +619,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -506,6 +638,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -521,6 +657,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -536,6 +676,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -551,6 +695,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -566,6 +714,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -581,6 +733,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -596,6 +752,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -611,6 +771,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -626,6 +790,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -641,6 +809,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -656,6 +828,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -671,6 +847,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -686,6 +866,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -701,6 +885,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -716,6 +904,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -731,6 +923,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -746,6 +942,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -761,6 +961,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -776,6 +980,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -791,6 +999,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -806,6 +1018,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -821,6 +1037,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -836,6 +1056,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -851,6 +1075,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -866,6 +1094,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -881,6 +1113,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -896,6 +1132,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -911,6 +1151,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -926,6 +1170,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -941,6 +1189,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -956,6 +1208,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -971,6 +1227,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -986,6 +1246,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -1001,6 +1265,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -1016,6 +1284,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -1031,6 +1303,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -1046,6 +1322,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -1061,6 +1341,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -1076,6 +1360,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -1092,6 +1380,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -1108,6 +1400,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -1124,6 +1420,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -1140,6 +1440,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -1154,6 +1458,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -1168,6 +1476,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
@@ -1182,6 +1494,10 @@
   </Placemark>
   <Placemark>
 	<Style>
+	   <LineStyle>
+		  <color>ff0000ff</color>
+			<width>1</width>
+		</LineStyle>
 		<PolyStyle>
 		  <color>7f0000ff</color>
 			<fill>1</fill>
