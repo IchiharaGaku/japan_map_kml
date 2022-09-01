@@ -12,11 +12,11 @@
   <Placemark>
 	<Style>
 	  <LineStyle>
-		  <color>ff0000ff</color>
+		  <color>ff0fa6d3</color>
 			<width>1</width>
 		</LineStyle>
 		<PolyStyle>
-		  <color>7f0000ff</color>
+		  <color>ff0fa6d3</color>
 			<fill>1</fill>
 			<outline>1</outline>
 		</PolyStyle>
